@@ -1,0 +1,17 @@
+C:\Users\redwood-presenter\Desktop\paul\AccountOwnerServer\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\redwood-presenter\Desktop\paul\AccountOwnerServer\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\redwood-presenter\Desktop\paul\AccountOwnerServer\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\redwood-presenter\Desktop\paul\AccountOwnerServer\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\redwood-presenter\Desktop\paul\AccountOwnerServer\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\redwood-presenter\Desktop\paul\AccountOwnerServer\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\redwood-presenter\Desktop\paul\AccountOwnerServer\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\redwood-presenter\Desktop\paul\AccountOwnerServer\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\redwood-presenter\Desktop\paul\AccountOwnerServer\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\jdane\Downloads\AccountOwnerServerRH\AccountOwnerServer\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\jdane\Downloads\AccountOwnerServerRH\AccountOwnerServer\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\jdane\Downloads\AccountOwnerServerRH\AccountOwnerServer\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\jdane\Downloads\AccountOwnerServerRH\AccountOwnerServer\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\jdane\Downloads\AccountOwnerServerRH\AccountOwnerServer\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\jdane\Downloads\AccountOwnerServerRH\AccountOwnerServer\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\jdane\Downloads\AccountOwnerServerRH\AccountOwnerServer\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\jdane\Downloads\AccountOwnerServerRH\AccountOwnerServer\Entities\obj\Debug\netcoreapp3.1\Entities.pdb

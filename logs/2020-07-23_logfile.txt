@@ -1,0 +1,9 @@
+2020-07-23 15:44:41.6667 INFO Returned all owners from database.
+2020-07-23 16:15:22.9505 INFO Returned all owners from database.
+2020-07-23 16:15:56.1542 INFO Returned owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2020-07-23 16:16:20.7625 INFO Returned owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2020-07-23 16:16:41.6304 ERROR Owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641907, hasn't been found in db.
+2020-07-23 16:25:59.1634 INFO Returned owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2020-07-23 16:26:04.8675 ERROR Owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641907, hasn't been found in db.
+2020-07-23 16:56:31.1344 INFO Returned owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2020-07-23 16:56:40.5382 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
